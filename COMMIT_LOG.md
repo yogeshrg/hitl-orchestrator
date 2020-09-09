@@ -120,3 +120,4 @@
 ## 2020-06-09 13:56:27 - feat(queue): implement queue feature
 ## 2020-06-26 12:27:11 - feat(metric): implement metric module
 ## 2020-08-04 13:00:10 - feat(docs): implement docs feature
+## 2020-09-09 13:53:23 - feat(core): add core endpoint
