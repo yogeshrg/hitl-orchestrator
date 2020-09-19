@@ -238,3 +238,4 @@
 ## 2020-06-26 12:27:11 - feat(metric): implement metric module
 ## 2020-08-04 13:00:10 - feat(docs): implement docs feature
 ## 2020-09-09 13:53:23 - feat(core): add core endpoint
+## 2020-09-19 09:22:41 - feat(model): create model handler (16/20)
