@@ -5,3 +5,4 @@
 ## 2020-08-04 13:00:10 - feat(docs): implement docs feature
 ## 2020-09-09 13:53:23 - feat(core): add core endpoint
 ## 2020-09-19 09:22:41 - feat(model): create model handler (16/20)
+## 2020-09-20 19:35:52 - feat(worker): create worker handler (14/20)
