@@ -123,3 +123,4 @@
 ## 2020-09-09 13:53:23 - feat(core): add core endpoint
 ## 2020-09-19 09:22:41 - feat(model): create model handler (16/20)
 ## 2020-09-20 19:35:52 - feat(worker): create worker handler (14/20)
+## 2020-10-24 11:34:59 - feat(cache): implement cache module (17/20)
