@@ -359,3 +359,4 @@
 ## 2020-09-20 19:35:52 - feat(worker): create worker handler (14/20)
 ## 2020-10-24 11:34:59 - feat(cache): implement cache module (17/20)
 ## 2020-11-08 12:47:13 - feat(queue): add queue endpoint (12/20)
+## 2020-11-28 19:29:31 - feat(metric): implement metric feature (14/20)
