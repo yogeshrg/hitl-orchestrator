@@ -361,3 +361,4 @@
 ## 2020-11-08 12:47:13 - feat(queue): add queue endpoint (12/20)
 ## 2020-11-28 19:29:31 - feat(metric): implement metric feature (14/20)
 ## 2020-12-20 17:53:09 - feat(config): implement config feature (20/20)
+## 2021-01-30 12:36:03 - feat(core): implement core module (8/20)
