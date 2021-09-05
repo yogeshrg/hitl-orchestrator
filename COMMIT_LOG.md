@@ -364,3 +364,4 @@
 ## 2021-01-30 12:36:03 - feat(core): implement core module (8/20)
 ## 2021-03-11 20:58:11 - feat(queue): implement queue module
 ## 2021-08-28 11:59:58 - feat(queue): implement queue feature (11/20)
+## 2021-09-05 12:07:21 - feat(cache): add cache endpoint (1/20)
