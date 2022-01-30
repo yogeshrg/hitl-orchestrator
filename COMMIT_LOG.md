@@ -371,3 +371,4 @@
 ## 2021-10-23 13:34:00 - feat(ci): create ci handler (2/20)
 ## 2021-11-10 19:43:20 - feat(worker): implement worker feature
 ## 2022-01-09 22:16:12 - feat(ci): add ci endpoint (13/20)
+## 2022-01-30 15:58:43 - feat(docs): add docs endpoint (3/20)
