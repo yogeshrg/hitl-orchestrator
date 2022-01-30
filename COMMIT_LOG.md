@@ -255,3 +255,4 @@
 ## 2021-11-10 19:43:20 - feat(worker): implement worker feature
 ## 2022-01-09 22:16:12 - feat(ci): add ci endpoint (13/20)
 ## 2022-01-30 15:58:43 - feat(docs): add docs endpoint (3/20)
+## 2022-01-30 20:10:01 - feat(config): add config support (13/20)
