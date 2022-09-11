@@ -143,3 +143,4 @@
 ## 2022-05-14 10:13:55 - feat(metric): add metric support (7/20)
 ## 2022-06-17 14:19:30 - feat(queue): add queue endpoint
 ## 2022-07-02 11:17:55 - feat(metric): create metric handler (6/20)
+## 2022-09-11 11:02:19 - feat(alert): add alert endpoint (5/20)
