@@ -379,3 +379,4 @@
 ## 2022-07-02 11:17:55 - feat(metric): create metric handler (6/20)
 ## 2022-09-11 11:02:19 - feat(alert): add alert endpoint (5/20)
 ## 2022-09-25 20:21:52 - feat(model): add model endpoint (1/20)
+## 2022-10-02 17:12:50 - feat(api): implement api feature (15/20)
