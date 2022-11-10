@@ -31,3 +31,4 @@
 ## 2022-10-02 17:12:50 - feat(api): implement api feature (15/20)
 ## 2022-10-09 19:43:20 - feat(ui): implement ui module (17/20)
 ## 2022-10-30 10:15:44 - feat(alert): create alert handler (14/20)
+## 2022-11-10 15:27:27 - feat(api): create api handler
