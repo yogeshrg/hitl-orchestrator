@@ -268,3 +268,4 @@
 ## 2022-11-10 15:27:27 - feat(api): create api handler
 ## 2022-11-12 19:53:20 - feat(auth): implement auth module (9/20)
 ## 2022-11-16 16:03:19 - feat(test): implement test module
+## 2022-12-03 16:23:17 - feat(worker): add worker endpoint (6/20)
