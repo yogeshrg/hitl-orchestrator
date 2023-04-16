@@ -278,3 +278,4 @@
 ## 2023-02-18 21:07:47 - feat(test): create test handler (2/20)
 ## 2023-03-05 23:19:56 - feat(ui): create ui handler (8/20)
 ## 2023-03-12 11:14:10 - feat(data): implement data module (16/20)
+## 2023-04-16 16:43:03 - feat(db): add db endpoint (4/20)
