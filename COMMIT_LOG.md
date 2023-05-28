@@ -47,3 +47,4 @@
 ## 2023-04-16 16:43:03 - feat(db): add db endpoint (4/20)
 ## 2023-04-22 23:48:05 - feat(cache): implement cache module (11/20)
 ## 2023-04-30 09:19:10 - feat(log): create log handler (15/20)
+## 2023-05-28 15:39:22 - feat(security): implement security feature (12/20)
