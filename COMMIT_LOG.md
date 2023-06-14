@@ -50,3 +50,4 @@
 ## 2023-05-28 15:39:22 - feat(security): implement security feature (12/20)
 ## 2023-06-04 11:29:38 - feat(data): implement data module (3/20)
 ## 2023-06-04 18:38:30 - feat(alert): implement alert module (9/20)
+## 2023-06-14 23:29:47 - feat(api): implement api feature
