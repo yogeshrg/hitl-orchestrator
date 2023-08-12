@@ -54,3 +54,4 @@
 ## 2023-07-02 22:40:33 - feat(ui): add ui endpoint (1/20)
 ## 2023-07-30 11:53:23 - feat(config): implement config feature (11/20)
 ## 2023-08-05 09:33:23 - feat(monitor): add monitor endpoint (3/20)
+## 2023-08-12 10:34:06 - feat(data): add data endpoint (8/20)
