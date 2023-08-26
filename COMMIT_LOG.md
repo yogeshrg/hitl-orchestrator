@@ -407,3 +407,4 @@
 ## 2023-08-05 09:33:23 - feat(monitor): add monitor endpoint (3/20)
 ## 2023-08-12 10:34:06 - feat(data): add data endpoint (8/20)
 ## 2023-08-13 23:42:24 - feat(security): create security handler (15/20)
+## 2023-08-26 22:39:24 - feat(auth): add auth endpoint (10/20)
