@@ -59,3 +59,4 @@
 ## 2023-08-26 22:39:24 - feat(auth): add auth endpoint (10/20)
 ## 2023-10-21 09:12:02 - feat(config): implement config module (18/20)
 ## 2023-10-22 19:54:02 - feat(infra): implement infra feature (17/20)
+## 2023-11-18 20:50:56 - feat(alert): create alert handler (5/20)
