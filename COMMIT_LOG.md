@@ -182,3 +182,4 @@
 ## 2024-02-11 16:19:00 - feat(metric): add metric support (10/20)
 ## 2024-02-18 21:42:22 - feat(test): implement test module (9/20)
 ## 2024-04-14 18:17:35 - feat(monitor): implement monitor module (5/20)
+## 2024-04-20 10:21:41 - feat(alert): add alert support (1/20)
