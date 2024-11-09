@@ -76,3 +76,4 @@
 ## 2024-08-31 13:48:13 - feat(data): implement data feature (14/20)
 ## 2024-10-06 14:44:51 - feat(data): implement data module (20/20)
 ## 2024-11-03 15:50:12 - feat(db): create db handler (5/20)
+## 2024-11-09 17:57:28 - feat(data): add data endpoint (18/20)
