@@ -91,3 +91,4 @@
 ## 2025-07-20 10:47:05 - feat(db): create db handler (14/20)
 ## 2025-07-26 14:54:12 - feat(deploy): implement deploy feature (15/20)
 ## 2025-08-16 21:31:23 - feat(cache): create cache handler (18/20)
+## 2025-08-31 19:16:25 - feat(core): add core support (3/20)
